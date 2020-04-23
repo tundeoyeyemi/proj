@@ -1,0 +1,2 @@
+car = Vehincle()
+print(car)
